@@ -1,0 +1,86 @@
+equipment_id,equipment_type,brand,model,serial_number,room_id,status,purchase_date,purchase_cost,last_maintenance_date,next_maintenance_due,utilization_hours_per_day,department
+EQP0001,Ultrasound Machine,Health Systems Pro,Model-W346,SNTO04TFRX,ROOM15,Available,2020-09-12,3316.01,2025-10-26,2026-01-21,14.4,Andrology
+EQP0002,Anesthesia Machine,Advanced Medical Systems,Model-M976,SNM5DEPNCZ,ROOM02,Available,2021-06-27,20431.81,2024-12-21,2025-04-22,3.9,Counseling
+EQP0003,Time-lapse System,Clinical Solutions Ltd,Model-R919,SNSGFCFLJB,ROOM15,Available,2022-04-16,14143.36,2024-01-21,2024-07-12,8.0,Reproductive Endocrinology
+EQP0004,Examination Bed,Advanced Medical Systems,Model-W873,SN46WKECBA,ROOM19,Available,2022-08-05,48047.15,2025-06-11,2025-07-17,12.1,Andrology
+EQP0005,Time-lapse System,Advanced Medical Systems,Model-P481,SNCZLXOZV4,ROOM20,Available,2020-01-22,43247.94,2025-01-28,2025-05-10,4.5,Ultrasound
+EQP0006,Ultrasound Machine,Advanced Medical Systems,Model-A802,SNW803CQEX,ROOM02,Available,2023-08-06,19048.09,2025-04-11,2025-05-23,14.4,Reproductive Endocrinology
+EQP0007,Anesthesia Machine,Medical Devices Inc,Model-Z102,SNT86LR6SA,ROOM15,Available,2021-11-01,26015.54,2024-01-25,2024-05-22,5.0,Embryology Lab
+EQP0008,Ultrasound Machine,Clinical Solutions Ltd,Model-V879,SNNFTC46EL,ROOM12,Available,2020-02-25,28090.03,,,11.5,Reproductive Endocrinology
+EQP0009,Centrifuge,MedTech Solutions,Model-P364,SN9WY5WDA0,ROOM02,Retired,2023-01-30,35946.06,,,11.8,Andrology
+EQP0010,Incubator,Clinical Solutions Ltd,Model-H623,SNLU6H2FOW,ROOM15,Available,2022-04-11,29611.87,2025-08-08,2025-09-17,9.1,Embryology Lab
+EQP0011,Laser System,Precision Healthcare,Model-T188,SNN4VNBOOB,ROOM05,Available,2023-07-05,11053.98,2024-05-06,2024-10-20,15.8,Reproductive Endocrinology
+EQP0012,Anesthesia Machine,Precision Healthcare,Model-L530,SNHPU5PHPY,ROOM18,Available,2021-04-25,30212.85,2024-11-18,2025-03-22,0.5,Ultrasound
+EQP0013,Anesthesia Machine,MedTech Solutions,Model-E303,SNLDKZ27DQ,ROOM01,Available,2023-02-25,12752.82,2025-02-24,2025-05-04,13.0,Embryology Lab
+EQP0014,Centrifuge,MedTech Solutions,Model-Y417,,ROOM08,In Use,2024-11-18,13666.78,2024-06-06,2024-10-11,6.9,Andrology
+EQP0015,Freezer,Clinical Solutions Ltd,Model-G642,SNBRFBFL0V,ROOM02,Available,2021-08-26,11052.78,2025-05-30,2025-08-19,3.0,Counseling
+EQP0016,Ultrasound Machine,Healthcare Innovations,Model-A676,SNUBV9TKRW,ROOM17,Maintenance,2024-08-22,20412.5,,,13.4,Nursing
+EQP0017,Freezer,Healthcare Innovations,Model-F598,,ROOM19,Available,2020-07-11,25705.73,2025-02-12,2025-06-01,11.6,Embryology Lab
+EQP0018,Sperm Analyzer,Clinical Solutions Ltd,Model-T553,SNGYNSATCQ,ROOM01,Available,2022-06-07,30872.56,2024-04-13,2024-06-13,0.7,Reproductive Endocrinology
+EQP0019,Operating Table,Precision Healthcare,Model-R352,SNHUAT45J6,ROOM07,Available,2022-11-10,419334.66,2024-02-15,2024-06-30,14.4,Andrology
+EQP0020,Operating Table,Health Systems Pro,Model-J157,SNNY6WNGHY,ROOM11,Available,2025-05-05,37637.02,,,10.2,Andrology
+EQP0021,Centrifuge,Clinical Solutions Ltd,Model-A394,SNXT0AZQG9,ROOM03,Available,2023-09-28,7209.44,2024-09-03,2024-12-23,7.8,Surgery
+EQP0022,Incubator,Precision Healthcare,Model-H301,SNI0HC39ER,ROOM04,Available,2025-07-27,30512.15,2024-10-03,2025-03-21,2.5,Embryology Lab
+EQP0023,Embryo Transfer Catheter,Healthcare Innovations,Model-K552,SN3M5RPBLA,ROOM15,Available,2023-04-20,1664.08,2025-02-14,2025-06-28,15.5,Embryology Lab
+EQP0024,Incubator,Clinical Solutions Ltd,Model-F724,SNVZSLPWLM,ROOM06,Available,2020-08-12,21673.63,2024-12-08,2025-05-05,2.6,Surgery
+EQP0025,Time-lapse System,Advanced Medical Systems,Model-H730,SNQJPAL1DS,ROOM05,In Use,2022-04-11,33875.06,2024-08-26,2025-02-09,10.7,Ultrasound
+EQP0026,Operating Table,Clinical Solutions Ltd,Model-I756,SNOFXJX0GO,ROOM18,Available,2020-07-31,20670.76,,,9.0,Andrology
+EQP0027,Centrifuge,Health Systems Pro,Model-N982,,ROOM10,Available,2024-05-17,8283.65,2024-02-23,2024-04-02,9.4,Nursing
+EQP0028,Incubator,Advanced Medical Systems,Model-B155,SNK2U4AVPM,ROOM04,Available,2025-04-27,16238.11,2024-11-12,2025-04-23,13.9,Counseling
+EQP0029,Time-lapse System,Clinical Solutions Ltd,Model-V944,SNE0RK1Y2A,ROOM07,Available,2020-08-19,34064.35,2024-05-13,2024-10-17,12.4,Embryology Lab
+EQP0030,Microscope,Healthcare Innovations,Model-P195,SND9N1O5BQ,ROOM07,Available,2022-11-01,4220.53,2025-02-17,2025-03-19,10.2,Andrology
+EQP0031,Ultrasound Machine,Medical Devices Inc,Model-B967,SN8OG996JL,ROOM11,In Use,2022-02-27,45963.07,2025-02-27,2025-06-09,8.0,Nursing
+EQP0032,Laser System,Medical Devices Inc,Model-T754,SN4C9ASZ5G,ROOM18,Maintenance,2025-07-14,25428.11,2025-07-16,2025-11-04,9.0,Surgery
+EQP0033,Microscope,Precision Healthcare,Model-X336,SNC0Y5F2T2,ROOM01,Available,2022-10-05,5849.53,2024-02-20,2024-04-24,9.6,Nursing
+EQP0034,Freezer,MedTech Solutions,Model-J977,SNZK1I19VL,ROOM16,In Use,2025-02-04,36841.6,2025-05-25,2025-07-27,4.2,Surgery
+EQP0035,Aspiration Needle,Healthcare Innovations,Model-A132,SNOJWF50SX,ROOM20,Available,2024-12-16,31763.13,2024-01-11,2024-07-02,4.7,Embryology Lab
+EQP0036,Anesthesia Machine,BioMed Corp,Model-J628,SNSUINJESP,ROOM19,Available,2020-10-19,120125.07,2025-04-26,2025-05-26,5.5,Andrology
+EQP0037,Freezer,Advanced Medical Systems,Model-J309,SNUUN4TJJ9,ROOM09,Available,2023-02-01,49701.11,2024-04-29,2024-06-12,11.5,Nursing
+EQP0038,Embryo Transfer Catheter,Precision Healthcare,Model-K734,SNA1OXC0VV,ROOM01,Available,2025-04-19,39387.5,2025-04-05,2025-06-27,15.9,Surgery
+EQP0039,Examination Bed,Advanced Medical Systems,Model-Y575,SNESCDCOWD,ROOM15,Available,2020-07-31,38640.2,,,7.8,Andrology
+EQP0040,Examination Bed,Advanced Medical Systems,Model-E537,SNBANXAOEY,ROOM11,Available,2025-01-29,43802.62,2024-09-18,2024-11-26,0.1,Counseling
+EQP0041,Freezer,Advanced Medical Systems,Model-T703,SNVB0BS90X,ROOM20,Available,2024-11-15,17111.77,2025-05-25,2025-08-12,6.2,Counseling
+EQP0042,Incubator,BioMed Corp,Model-X719,SN3KJDYVY9,ROOM01,Available,2021-02-16,9113.35,2025-08-05,2025-12-20,12.9,Andrology
+EQP0043,Incubator,Advanced Medical Systems,Model-G172,SNL0LRK4T0,ROOM15,Available,2022-07-21,36994.15,,,1.1,Surgery
+EQP0044,Centrifuge,MedTech Solutions,Model-Z144,SNX3LNC304,ROOM06,Maintenance,2025-08-04,1999.31,2024-05-25,2024-11-06,6.8,Surgery
+EQP0045,Anesthesia Machine,MedTech Solutions,Model-U904,SN1M3S65Q1,ROOM14,Available,2022-03-02,44976.27,2024-11-29,2025-01-22,9.8,Reproductive Endocrinology
+EQP0046,Sperm Analyzer,Health Systems Pro,Model-Y291,SN654NVGUW,ROOM06,Available,2024-06-06,42284.67,2025-05-24,2025-11-01,10.8,Nursing
+EQP0047,Sperm Analyzer,Precision Healthcare,Model-U406,SNGC5FJ2TE,ROOM09,Available,2023-01-01,36912.24,2025-04-01,2025-05-30,9.5,Ultrasound
+EQP0048,Time-lapse System,BioMed Corp,Model-Y604,SNXLY81XGJ,ROOM15,Available,2020-10-31,386630.22,2025-08-11,2025-12-09,7.2,Embryology Lab
+EQP0049,Laser System,Health Systems Pro,Model-O233,SNWTAQLDTM,ROOM01,Available,2025-05-07,10383.07,,,5.7,Reproductive Endocrinology
+EQP0050,Laminar Flow Hood,Precision Healthcare,Model-H378,SNK0O8COOQ,ROOM01,Available,2020-11-28,17311.81,,,0.0,Embryology Lab
+EQP0051,Time-lapse System,Clinical Solutions Ltd,Model-P408,SNXMNKN444,ROOM03,Available,2020-08-28,29809.52,2024-07-16,2024-11-09,0.0,Ultrasound
+EQP0052,Sperm Analyzer,Health Systems Pro,Model-D957,SNW22FIWK5,ROOM13,Available,2023-10-01,32186.93,2024-11-14,2025-02-08,13.6,Nursing
+EQP0053,Centrifuge,Advanced Medical Systems,Model-B689,SN42L15FV8,ROOM13,Available,2021-04-01,21475.19,,,5.6,Reproductive Endocrinology
+EQP0054,Freezer,Clinical Solutions Ltd,Model-O723,SNE4PEVH4Q,ROOM14,Available,2022-04-10,23545.94,,,1.7,Ultrasound
+EQP0055,Laminar Flow Hood,Clinical Solutions Ltd,Model-R629,SNOB7NBQW3,ROOM10,Available,2025-04-05,26142.66,2025-06-07,2025-10-30,13.6,Ultrasound
+EQP0056,Operating Table,Advanced Medical Systems,Model-A993,SN6F1QW90T,ROOM02,Available,2024-12-08,174958.42,2024-09-16,2024-11-01,14.4,Andrology
+EQP0057,Freezer,Clinical Solutions Ltd,Model-Y849,SN3VME942H,ROOM17,In Use,2020-09-27,17048.96,2024-03-30,2024-07-08,0.3,Embryology Lab
+EQP0058,Operating Table,Precision Healthcare,Model-V755,SNGK3LV323,ROOM06,Available,2022-06-06,3740.89,2025-03-06,2025-05-02,6.0,Ultrasound
+EQP0059,Time-lapse System,MedTech Solutions,Model-A382,SNWQT2EXWN,ROOM15,In Use,2020-07-16,40550.3,,,4.9,Surgery
+EQP0060,Laminar Flow Hood,Healthcare Innovations,Model-T802,SNKJ1YTLVI,ROOM06,Available,2024-11-12,5563.05,2025-07-27,2026-01-09,9.5,Reproductive Endocrinology
+EQP0061,Anesthesia Machine,Health Systems Pro,Model-D205,SNS98BP7C8,ROOM16,Retired,2025-03-26,21905.41,2025-03-15,2025-05-22,13.4,Andrology
+EQP0062,Microscope,Clinical Solutions Ltd,Model-W800,SN8O5B8MS9,ROOM19,Available,2023-08-13,32729.13,2024-01-12,2024-06-13,2.8,Reproductive Endocrinology
+EQP0063,Ultrasound Machine,Clinical Solutions Ltd,Model-N370,SNIHN0SOQV,ROOM04,Available,2023-01-12,30927.87,2024-06-04,2024-12-01,15.4,Andrology
+EQP0064,Examination Bed,Clinical Solutions Ltd,Model-Y597,SNSH9CUCE5,ROOM16,Retired,2020-08-12,49182.22,2025-09-29,2026-03-14,5.2,Andrology
+EQP0065,Examination Bed,Healthcare Innovations,Model-D420,SNYPGW00JY,ROOM11,Available,2025-05-08,32045.85,2024-04-03,2024-08-14,9.6,Counseling
+EQP0066,Incubator,Advanced Medical Systems,Model-T606,SNYN9HT693,ROOM08,Available,2021-04-25,1682.31,2024-07-28,2024-12-23,5.1,Embryology Lab
+EQP0067,Examination Bed,Health Systems Pro,Model-F664,SNLYZFIZDH,ROOM01,Available,2025-07-03,16968.9,2025-08-12,2025-10-31,14.2,Andrology
+EQP0068,Ultrasound Machine,BioMed Corp,Model-Q488,SNAZ4LLS9K,ROOM06,Available,2024-02-05,43038.04,2024-10-26,2025-02-21,8.3,Surgery
+EQP0069,Microscope,Medical Devices Inc,Model-L651,SNU50AP1WN,ROOM05,Maintenance,2021-07-10,26655.25,2024-08-10,2024-12-25,2.3,Embryology Lab
+EQP0070,Embryo Transfer Catheter,Precision Healthcare,Model-O588,SNX89NADHE,ROOM11,Available,2024-04-04,38581.9,2024-08-08,2025-01-24,8.1,Surgery
+EQP0071,Time-lapse System,Healthcare Innovations,Model-Z280,SNHRIPVTAB,ROOM05,Available,2022-07-02,10031.24,2024-12-06,2025-04-14,12.8,Andrology
+EQP0072,Freezer,MedTech Solutions,Model-R997,SNYNHX2O3L,ROOM07,Available,2023-02-23,9282.58,2025-01-27,2025-06-10,13.3,Surgery
+EQP0073,Laminar Flow Hood,Advanced Medical Systems,Model-T713,SN2EU0ESQU,ROOM09,Available,2023-10-24,40074.84,2025-03-18,2025-05-06,0.6,Nursing
+EQP0074,Laser System,Clinical Solutions Ltd,Model-Z917,SN4HZWCFU9,ROOM04,Available,2020-08-22,19289.6,2024-07-08,2024-10-08,6.7,Embryology Lab
+EQP0075,Laser System,MedTech Solutions,Model-V661,SNANL816LB,ROOM17,Available,2025-10-26,16636.09,2024-03-16,2024-07-22,12.2,Ultrasound
+EQP0076,Incubator,Precision Healthcare,Model-I900,SND6QK06HO,ROOM09,Available,2022-05-07,32857.53,2025-06-07,2025-11-08,2.1,Reproductive Endocrinology
+EQP0077,Examination Bed,MedTech Solutions,Model-Z411,SNHP2Z94HU,ROOM08,Available,2025-09-30,4720.23,2024-03-15,2024-06-29,11.2,Reproductive Endocrinology
+EQP0078,Aspiration Needle,Clinical Solutions Ltd,Model-I573,SNVQ8L1S2G,ROOM06,Maintenance,2021-01-09,26754.86,2024-02-03,2024-05-01,1.7,Embryology Lab
+EQP0079,Time-lapse System,BioMed Corp,Model-P976,SNMYLACYDC,ROOM11,Available,2021-01-11,35459.28,2024-01-18,2024-03-08,8.5,Ultrasound
+EQP0080,Aspiration Needle,Healthcare Innovations,Model-B119,SNGOAJNEQ5,ROOM03,Available,2025-02-25,17862.1,2024-04-15,2024-06-30,12.1,Reproductive Endocrinology
+EQP0081,Centrifuge,Precision Healthcare,Model-A176,,ROOM09,Available,2024-05-08,5457.65,2025-07-27,2025-12-03,1.3,Surgery
+EQP0082,Centrifuge,Advanced Medical Systems,Model-W801,SN3BQFRB0N,ROOM12,Available,2022-07-25,37055.23,2025-07-18,2025-10-17,15.4,Andrology
+EQP0083,Ultrasound Machine,Medical Devices Inc,Model-V176,SNEOGE9B4U,ROOM11,Available,2021-02-15,44045.81,,,3.3,Surgery
+EQP0084,Microscope,Health Systems Pro,Model-N445,SNBOH5743F,ROOM08,Broken,2022-08-26,10875.28,2024-04-05,2024-09-26,0.8,Counseling
+EQP0085,Time-lapse System,Health Systems Pro,Model-E798,SNI98NKHDL,ROOM13,Available,2025-06-22,15623.78,2024-01-29,2024-05-30,0.7,Surgery
